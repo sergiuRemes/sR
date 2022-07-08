@@ -21,7 +21,7 @@ Curently I'm currently learning** PHP, C# and Java.
  <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white&style=plastic" />
  <img alt="Mocha" src="https://img.shields.io/badge/-Mocha-%238D6748?style=for-the-badge&logo=Mocha&logoColor=white&style=plastic" /> 
  <a href="https://python.org" title="Go to Python homepage">
- <img src="https://img.shields.io/badge/Python-%?logo=python&logoColor=white" /></a>
+ <img src="https://img.shields.io/badge/-Python-%?logo=python&logoColor=white" /></a>
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red&style=plastic" /> 
  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&style=plastic&badge-color=black" />
    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&style=plastic" /> 
