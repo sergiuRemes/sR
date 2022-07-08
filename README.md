@@ -1,10 +1,10 @@
 ### Hi, I'm Sergiu
 
-About to start my first job in tech
+About to start my first full-time job in tech.
 
-Professional experience in B2B Sales and Marketing, Software testing
+Professional experience in B2B Sales and Marketing, Software testing.
 
-Studying Full-Stack Software Engineering at [It CareerSwitch](https://itcareerswitch.co.uk/)
+Studying Full-Stack Software Engineering at [It CareerSwitch](https://itcareerswitch.co.uk/).
 
 Curently I'm currently learning PHP, C# and Java.
 
